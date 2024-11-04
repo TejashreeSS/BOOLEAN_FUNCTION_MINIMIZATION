@@ -40,21 +40,14 @@ Implementing Boolean functions in Verilog HDL (Hardware Description Language) in
 # PROGRAM:
 ![Screenshot 2024-11-04 114028](https://github.com/user-attachments/assets/ccd645b6-8116-4c0f-ae3e-180b3b9f250b)
 
-
 # TRUTH TABLE:
 ![TRUTH TABLE FOR EX2](https://github.com/user-attachments/assets/afc3a642-9382-4700-8677-6e9486d40c60)
-
 
 # RTL OUTPUT:
 ![Screenshot 2024-11-04 104445](https://github.com/user-attachments/assets/fb8f8f27-bab6-4903-9c96-88555b0795b5)
 
-
 # TIMING DIAGRAM
-
 ![Screenshot 2024-11-04 111502](https://github.com/user-attachments/assets/5dc0c101-fff4-47dd-9aab-d2baf401b546)
-
-
-
 
 
 # RESULT:
